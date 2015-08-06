@@ -3,4 +3,8 @@
 Homestead.yaml
 Homestead.json
 .env
+<<<<<<< HEAD
 .idea/
+=======
+./idea
+>>>>>>> 020abdf29bf21dc528b42ada06c93f8ade82351c
